@@ -11,6 +11,7 @@ import tkinter as tk
 from tkinter import ttk, simpledialog, filedialog
 import psutil
 from ttkthemes import ThemedTk
+
 PROGRAMS_FILE = 'programs.json'
 BUTTON_WIDTH = 10
 LABEL_WIDTH = 20

@@ -1,3 +1,6 @@
 .vscode/settings.json
 programs.json
 checkmark.png
+build/*
+dist/*
+release/*
